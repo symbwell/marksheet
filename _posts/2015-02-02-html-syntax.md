@@ -50,7 +50,7 @@ Open your **text editor**, and copy paste the following:
 
 Save this file as `my-first-webpage.html` and just open it with your browser, and you'll see:
 
-<div class="result"><p>This is my firstwebpage!</p></div>
+<div class="result"><p>This is my first webpage!</p></div>
 
 Remember:
 
